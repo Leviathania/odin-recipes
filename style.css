@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: lightpink;
+}
+
+h1 {
+  font-size: 36px;
+  color: rgb(62, 62, 183);
+  text-align: center;
+}
+
+.recipes {
+  font-size: 18px;
+  list-style-type: square;
+}
+
+h2 {
+  color: rgb(62, 62, 183);
+}
+ol {
+  list-style-type: upper-roman;
+}
